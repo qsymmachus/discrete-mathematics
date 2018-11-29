@@ -9,7 +9,3 @@ module Prime
     end
   end
 end
-
-puts Prime.is_prime?(7)
-puts Prime.is_prime?(7829)
-puts Prime.is_prime?(24)
